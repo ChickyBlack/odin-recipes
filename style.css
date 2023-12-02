@@ -1,3 +1,7 @@
+body {
+    background-color: lightgrey;
+}
+
 .center {
     width: 50%;
     margin: 0 auto;
@@ -7,7 +11,14 @@ h1 {
     font-weight: bold;
     font-size: 36pt;    
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: red
+    color: black;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 24pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black;
 }
 
 ul {
