@@ -21,8 +21,7 @@ h2 {
     color:black;
 }
 
-ul {
-    font-size: 14pt;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+.recipe-links {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
 }
-
